@@ -1,6 +1,6 @@
 set(FONTFILES
-    DejaVuSans-Bold.ttf
-    wqy-zenhei.ttc)
+    comicsansbold.ttf
+    comicsans.ttc)
 
 if (FONTS_DIRS)
     foreach(fontfile ${FONTFILES})
